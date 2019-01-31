@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: mwhois-client
+Version: 1.1.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: jrosco
+Author-email: joel_c@zoho.com
+License: GPL
+Description: Whois client capable of finding multiple available domains via a file or list type.
+        It's a good way to search for domains that are available to buy.
+Platform: UNKNOWN
